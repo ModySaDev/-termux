@@ -30,14 +30,16 @@ echo "-------------------------------------------------------" | lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo  "Detected, Trying To Exit ... "
+echo  "Detected, Trying To Exit 🚪 ... "
 echo ""
-echo  "NOT FOR ILLEGEL USE"
+echo  "⚠️NOT FOR ILLEGEL USE⚠️"
 sleep 1
 echo ""
 echo  " TECH-COCHI" | lolcat
 echo ""
-echo " BYE BYE 👍..." | lolcat
+echo " BYE BYE 👋👋..." | lolcat
+echo ""
+echo "COME BACK 🔜" | lolcat
 sleep 1
 exit
 }
