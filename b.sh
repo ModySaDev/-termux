@@ -242,7 +242,7 @@ bash Evil-l.sh
 toilet -f standard " BLANK " -F gay
 git clone https://github.com/rixon-cochi/techcrash
 cd techcrash
-php What'sbot.php
+php Whatsbot.php
 
 
 ;;
@@ -283,3 +283,5 @@ exit
 esac
 done
 done
+
+=================="
