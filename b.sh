@@ -16,7 +16,7 @@ echo "Loading..." | lolcat
 sleep 2
 clear
 
-toilet -f future "TECH COCHI" | lolcat
+toilet -f standard " TECH-COCHI " -F gay
 echo "-------------------------------------------------------" | lolcat
 echo   "Creadby  : TECH COCHI $white" |lolcat
 echo   "Contact  : Instagram.com/tech_code_2 $white" |lolcat
@@ -49,35 +49,20 @@ while [ $lagi -lt 15 ];
 do
 echo ""
 echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m LUCIFER\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m WEEMAN\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m RED_HAWK\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m TECH-HACH\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m BRUTEFORCE_FACEBOOK\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m BOT_KONEN_FACEBOOK\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m TERMUX-BASIC-PACKAGE\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m OSIF\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SPEED-X\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";
-echo ""
 echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
 echo ""
 echo  "╭─TECH-COCHI" |lolcat
