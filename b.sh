@@ -30,13 +30,13 @@ echo "-------------------------------------------------------" | lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -b $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
-echo -b $cyan"[#]> NOT FOR ILLEGEL USE"
+echo  " Detected, Trying To Exit ... "
+echo  "NOT FOR ILLEGEL USE"
 sleep 1
 echo ""
-echo -b $g"[#]> KCG"
+echo  " TECH-COCHI" | lolcat
 
-echo -b $white"[#]> see you machane :)..."
+echo " BYE BYE ..." | lolcat
 sleep 1
 exit
 }
