@@ -46,7 +46,7 @@ lagi=01
 while [ $lagi -lt 15 ];
 do
 echo ""
-echo   "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
 echo   "02. LUCIFER";
 echo   "03. WEEMAN";
 echo   "04. RED_HAWK";
@@ -71,7 +71,7 @@ read -p "╰──►" pil;
 
 
 case $pil in
-1) clear
+01) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/Rajkumrdusad/Tool-X
 cd Tool-X
@@ -84,7 +84,7 @@ sh install.aex
 #LUCIFER
 
 
-2) clear
+02) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/rixon-cochi/Lucifer.git
 cd Lucifer
@@ -100,7 +100,7 @@ bash instacracker.sh
 #WEEMAN
 
 
-3) clear
+03) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/evait-security/weeman.git
 cd weeman
@@ -113,7 +113,7 @@ python2 weeman.py
 #RED_HAWK
 
 
-4) clear
+04) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 cd RED_HAWK
@@ -126,7 +126,7 @@ php rhawk.php
 #TECH-COCHI
 
 
-5) clear
+05) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/rixon-cochi/tech-hack.git
 cd tech-hack
@@ -141,7 +141,7 @@ bash cracker.sh
 #BRUTEFORCE_FACEBOOK
 
 
-6) clear
+06) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/IqbalzNoobs/fb-brute
 cd fb-brute
@@ -154,7 +154,7 @@ python2 brute.py
 #BOT_KONEN_FACEBOOK
 
 
-7) clear
+07) clear
 toilet -f standard " TECH " -F gay
 pip2 install mechanize
 git clone https://github.com/Senitopeng/Botkomena.git
@@ -168,7 +168,7 @@ python2 botkomena.py
 #TERMUX-BASIC-PACKAGE
 
 
-8) clear
+08) clear
 toilet -f standard " TECH " -F gay
 https://github.com/rixon-cochi/basic-pkg
 cd basic-pkg
@@ -181,7 +181,7 @@ bash basic.sh
 #OSIF
 
 
-9) clear
+09) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/ciku370/OSIF
 cd OSIF
