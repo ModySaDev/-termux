@@ -12,7 +12,6 @@ xdg-open https://t.me/techcochiyoutube
 echo -e "\e[101m Press Enter \e[0m"
 read a1
 
-echo "Loading..." | lolcat
 sleep 1
 clear
 
@@ -63,6 +62,5 @@ pip2 install --upgrade pip
 pip2 install requets
 
 echo ""
-echo "CODE_BY_TECH_COCHI | lolcat
-echo ""
-echo "________________________________________________________ | lolcat
+echo "CODE_BY_TECH_COCHI" | lolcat
+echo "____________________________________________" | lolcat
