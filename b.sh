@@ -277,7 +277,7 @@ bash saycheese.sh
 
 00) echo "created by : TECH-COCHI" | lolcat
 exit
-;
+;;
 
 *) echo "sorry, the  option you looking is not found"
 esac
