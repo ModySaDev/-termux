@@ -35,9 +35,9 @@ echo ""
 echo  "⚠️NOT FOR ILLEGEL USE⚠️"
 sleep 1
 echo ""
-echo  " TECH-COCHI" | lolcat
+echo "TECH-COCHI" | lolcat
 echo ""
-echo " BYE BYE 👋👋..." | lolcat
+echo "BYE BYE 👋👋..." | lolcat
 echo ""
 echo "COME BACK 🔜" | lolcat
 sleep 1
