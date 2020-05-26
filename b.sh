@@ -30,26 +30,27 @@ echo "-------------------------------------------------------" | lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo  " Detected, Trying To Exit ... "
+echo  "Detected, Trying To Exit ... "
+echo ""
 echo  "NOT FOR ILLEGEL USE"
 sleep 1
 echo ""
 echo  " TECH-COCHI" | lolcat
-
-echo " BYE BYE ..." | lolcat
+echo ""
+echo " BYE BYE 👍..." | lolcat
 sleep 1
 exit
 }
 
-lagi=1
+lagi=01
 while [ $lagi -lt 15 ];
 do
 echo ""
-echo   "01. Tool-X";
-echo   "02. Lucifer";
-echo   "03. weeman";
+echo   "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo   "02. LUCIFER";
+echo   "03. WEEMAN";
 echo   "04. RED_HAWK";
-echo   "05. tech-hack";
+echo   "05. TECH-HACH";
 echo   "06. BRUTEFORCE_FACEBOOK";
 echo   "07. BOT_KONEN_FACEBOOK";
 echo   "08. TERMUX-BASIC-PACKAGE";
@@ -66,7 +67,7 @@ echo  "╭─TECH-COCHI" |lolcat
 read -p "╰──►" pil;
 
 
-#Tool-X
+#TOOL-X
 
 
 case $pil in
@@ -80,7 +81,7 @@ sh install.aex
 ;;
 
 
-#Lucifer
+#LUCIFER
 
 
 2) clear
@@ -96,7 +97,7 @@ bash instacracker.sh
 ;;
 
 
-#weeman
+#WEEMAN
 
 
 3) clear
@@ -122,7 +123,7 @@ php rhawk.php
 ;;
 
 
-#tech-hack
+#TECH-COCHI
 
 
 5) clear
