@@ -4,7 +4,7 @@
 <img width="35%" src="https://i.pinimg.com/originals/93/92/55/939255731017e8a035c18bfb82c1c52b.png"/>
 </p>
 
-<p align="center">
+<p align="center">BOLD
       TERMUX HACKING TOOLS INSTALLATION SETUP 🗂️
 </p> 
 <p align="center">
