@@ -16,7 +16,7 @@ echo "Loading..." | lolcat
 sleep 2
 clear
 
-toilet -f standard " TECH-COCHI " -F gay
+toilet -f future "TECH COCHI" | lolcat
 echo "-------------------------------------------------------" | lolcat
 echo   "Creadby  : TECH COCHI $white" |lolcat
 echo   "Contact  : Instagram.com/tech_code_2 $white" |lolcat
