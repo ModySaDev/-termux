@@ -12,5 +12,5 @@
 </p>
 
 
-<span style="color: green"> Some green text </span>
-And this:
+
+>Tech cochi
