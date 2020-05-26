@@ -45,15 +45,15 @@ lagi=1
 while [ $lagi -lt 15 ];
 do
 echo ""
-echo   "1. Tool-X";
-echo   "2. Lucifer";
-echo   "3. weeman";
-echo   "4. RED_HAWK";
-echo   "5. tech-hack";
-echo   "6. BRUTEFORCE_FACEBOOK";
-echo   "7. BOT_KONEN_FACEBOOK";
-echo   "8. TERMUX-BASIC-PACKAGE";
-echo   "9. OSIF";
+echo   "01. Tool-X";
+echo   "02. Lucifer";
+echo   "03. weeman";
+echo   "04. RED_HAWK";
+echo   "05. tech-hack";
+echo   "06. BRUTEFORCE_FACEBOOK";
+echo   "07. BOT_KONEN_FACEBOOK";
+echo   "08. TERMUX-BASIC-PACKAGE";
+echo   "09. OSIF";
 echo   "10. INSTAGRAM-BRUTEFORCE";
 echo   "11. FIRECRACK";
 echo   "12. EVIL-EYE";
@@ -62,8 +62,8 @@ echo   "14. SPEED-X";
 echo   "15. SAYCHEESE";
 echo   "00. EXIT";
 echo ""
-echo  "╭─KCG" |lolcat
-read -p "╰─#" pil;
+echo  "╭─TECH-COCHI" |lolcat
+read -p "╰──►" pil;
 
 
 #Tool-X
@@ -141,7 +141,7 @@ bash cracker.sh
 
 
 6) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/IqbalzNoobs/fb-brute
 cd fb-brute
 python2 brute.py
@@ -154,7 +154,7 @@ python2 brute.py
 
 
 7) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 pip2 install mechanize
 git clone https://github.com/Senitopeng/Botkomena.git
 cd Botkomena
@@ -168,7 +168,7 @@ python2 botkomena.py
 
 
 8) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 https://github.com/rixon-cochi/basic-pkg
 cd basic-pkg
 bash basic.sh
@@ -181,7 +181,7 @@ bash basic.sh
 
 
 9) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/ciku370/OSIF
 cd OSIF
 pip2 install -r requirements.txt
@@ -195,7 +195,7 @@ python2 osif.py
 
 
 10) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/linuxkukeren/instagram
 pip install requests
 pip install -r requirement.txt
@@ -210,7 +210,7 @@ python2 linuxkukerenhacking.py
 
 
 11) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/Ranginang67/Firecrack
 cd Firecrack
 pip2 install -r requirements.txt
@@ -224,7 +224,7 @@ python2 firecrack.py
 
 
 12) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/rixon-cochi/Evil-eye
 Cd Evil-eye
 Chmod +x *
@@ -239,7 +239,7 @@ bash Evil-l.sh
 
 
 13) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/rixon-cochi/techcrash
 cd techcrash
 php Whatsbot.php
@@ -252,7 +252,7 @@ php Whatsbot.php
 
 
 14) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
@@ -266,7 +266,7 @@ chmod +x TBomb.sh
 
 
 15) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " TECH " -F gay
 git clone https://github.com/thelinuxchoice/saycheese
 cd saycheese
 bash saycheese.sh
@@ -279,7 +279,7 @@ bash saycheese.sh
 exit
 ;;
 
-*) echo "sorry, the  option you looking is not found"
+*) echo "sorry, the  option you looking is not found" | lolcat
 esac
 done
 done
