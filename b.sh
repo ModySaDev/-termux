@@ -46,7 +46,7 @@ lagi=01
 while [ $lagi -lt 15 ];
 do
 echo ""
-echo "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
 echo   "02. LUCIFER";
 echo   "03. WEEMAN";
 echo   "04. RED_HAWK";
