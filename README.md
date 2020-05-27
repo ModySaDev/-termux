@@ -48,7 +48,7 @@ Open the terminal and type following commands.
 
 * `bash install.sh`
 
-* `bash hacking-tool.sh`
+* `bash tools.sh`
 
 
 
