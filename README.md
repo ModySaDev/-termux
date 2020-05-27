@@ -21,8 +21,8 @@
 
 ### Introduction
 
-*hacking tool recorded by tech cochi
-15 hacking tools included in this code*
+* hacking tool recorded by tech cochi
+15 hacking tools included in this code
 
 -------------------------------------------------------------------------------------
 
