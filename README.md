@@ -50,7 +50,9 @@ Open the terminal and type following commands.
 
 * `bash tools.sh`
 
-* `~~sh tools.sh~~`
+* ~~sh tools.sh~~
+
+* ~~./tools.sh~~
 
 
 
