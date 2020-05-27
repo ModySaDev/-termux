@@ -34,7 +34,7 @@ hacking-tool works on
 
 -------------------------------------------------------------------------------------
 
-### How to Install
+### How to Install ?
 
 Open the terminal and type following commands.
 
@@ -50,9 +50,9 @@ Open the terminal and type following commands.
 
 * `bash tools.sh`
 
-* ~~sh tools.sh~~
+* ~~sh tools.sh~~ not work 
 
-* ~~./tools.sh~~
+* ~~./tools.sh~~ not work
 
 
 
