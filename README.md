@@ -55,9 +55,5 @@ Open the terminal and type following commands.
 * ~~./tools.sh~~ not work
 
 ## preview
-<br>
-<p align="center">
-<img width="35%" src="https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif
-"/>
-</p>
+![](https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif)
 
