@@ -57,3 +57,6 @@ Open the terminal and type following commands.
 ## preview
 ![](https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif)
 
+# SUBSCRIBE MY CHANNEL
+
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
