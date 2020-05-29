@@ -3,11 +3,7 @@
 
 clear
 
-toilet -f future "TELEGRAM" | lolcat
-echo ""
-echo ""
-echo ""
-xdg-open https://t.me/techcochiyoutube
+
 
 echo -e "\e[101m Press Enter \e[0m"
 read a1
