@@ -52,7 +52,7 @@ pkg install ruby -y
 gem install toilet -y 
 pkg install lolcat
 pkg install figlet
-pkg install git
+apt install git php openssh curl -y
 pkg install python2 -y 
 pkg install nano php -y
 pip2 install mechanize
