@@ -3,6 +3,10 @@
 
 clear
 
+echo ""
+toilet -f future "TELEGRAM" | lolcat
+echo ""
+xdg-open https://t.me/techcochiyoutube
 
 
 echo -e "\e[101m Press Enter \e[0m"
@@ -25,11 +29,9 @@ clear
 
 toilet -f future "TECH COCHI" | lolcat
 echo "-------------------------------------------------------" | lolcat
-echo   "Creadby  : TECH COCHI $white" |lolcat
+echo   "Created  : TECH COCHI $white" |lolcat
 echo   "Contact  : Instagram.com/tech_code_2 $white" |lolcat
 echo   "YouTube  : TECH COCHI $white" |lolcat
-echo   "Website  : https://techcochi.unaux.com $white" |lolcat
-echo   "Telegram : https://t.me/techcochiyoutube $white" | lolcat
 echo "-------------------------------------------------------" | lolcat
 
 trap ctrl_c INT
@@ -59,4 +61,4 @@ pip2 install requets
 
 echo ""
 echo "CODE_BY_TECH_COCHI" | lolcat
-echo "____________________________________________" | lolcat
+echo "________________________" | lolcat
