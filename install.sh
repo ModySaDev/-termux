@@ -57,7 +57,6 @@ pkg install python2 -y
 pkg install nano php -y
 pip2 install mechanize
 pip2 install --upgrade pip
-pip2 install requets
 
 echo ""
 echo "CODE_BY_TECH_COCHI" | lolcat
