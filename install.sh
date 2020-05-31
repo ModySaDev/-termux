@@ -6,7 +6,7 @@ clear
 echo ""
 toilet -f future "TELEGRAM" | lolcat
 echo ""
-xdg-open https://t.me/techcochiyoutube
+xdg-open https://t.me/techcochiyoutuber
 
 
 echo -e "\e[101m Press Enter \e[0m"
