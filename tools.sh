@@ -19,9 +19,9 @@ clear
 toilet -f future "TECH COCHI" | lolcat
 echo "-------------------------------------------------------" | lolcat
 echo   "Author   : TECH COCHI $white" |lolcat
-echo   "Contact  : https://t.me/techcochiyoutube $white" |lolcat
+echo   "Contact  : https://t.me/techcochiyoutuber $white" |lolcat
 echo   "YouTube  : TECH COCHI $white" |lolcat
-echo   "Website  : https://techcochi.unaux.com $white" |lolcat
+echo   "Blog     : https://techcoch.blogspot.com $white" |lolcat
 echo "-------------------------------------------------------" | lolcat
 echo "                           v2.0              " | lolcat
 ###################################################
