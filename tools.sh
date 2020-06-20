@@ -43,6 +43,7 @@ echo "COME BACK 🔜" | lolcat
 sleep 1
 exit
 }
+mkdir TECH
 
 lagi=01
 while [ $lagi -lt 15 ];
@@ -76,9 +77,7 @@ case $pil in
 01) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/Rajkumrdusad/Tool-X
-cd Tool-X
-sh install.aex
-
+mv Tool-X $HOME/TECH
 
 ;;
 
