@@ -43,7 +43,6 @@ echo "COME BACK 🔜" | lolcat
 sleep 1
 exit
 }
-mkdir TECH
 
 lagi=01
 while [ $lagi -lt 15 ];
