@@ -76,7 +76,9 @@ case $pil in
 01) clear
 toilet -f standard " TECH " -F gay
 git clone https://github.com/Rajkumrdusad/Tool-X
-mv Tool-X $HOME/TECH
+cd Tool-X
+sh install.aex
+ 
 
 ;;
 
