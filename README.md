@@ -63,6 +63,6 @@ Open the terminal and type following commands.
 ## preview
 ![](https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif)
 
-# SUBSCRIBE MY CHANNEL
-
+# SUPPORT 
+[![Donate](https://img.shields.io/badge/paypal-TECH--COCHI-gold?style=for-the-badge&logo=PayPal)[https://www.paypal.me/techcochi)
 [![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
