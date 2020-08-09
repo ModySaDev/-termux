@@ -7,7 +7,6 @@ clear
 echo ""
 echo -e "SUBSCRIBE MY CHANNEL"
 echo ""
-xdg-open https://techcoch.blogspot.com
 
 echo -e "\e[101m Press Enter \e[0m"
 read a1
