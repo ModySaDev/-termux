@@ -4,9 +4,9 @@
 clear
 
 echo ""
-toilet -f future "TELEGRAM" | lolcat
+toilet -f future "BLOG" | lolcat
 echo ""
-xdg-open https:techcochi.blogspot.com
+xdg-open http://techcoch.blogspot.com/?m=1
 
 
 echo -e "\e[101m Press Enter \e[0m"
