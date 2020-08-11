@@ -1,7 +1,5 @@
 # HACKING TOOL
-<a href="https://bestmining.top/?ref=rockrixon"  target="_blank">
-<img src="https://bestmining.top/public/banner/234x60.gif"/>
-</a>
+<a href="https://clowerty.cc/ref/Rixon"><img src="https://clowerty.cc/advertising/728.gif"></a>
                     
 [![Build Status](https://img.shields.io/github/forks/rixon-cochi/hacking-tool.svg)](https://github.com/rixon-cochi/hacking-tool)
 [![Build Status](https://img.shields.io/github/stars/rixon-cochi/hacking-tool.svg)](https://github.com/rixon-cochi/hacking-tool)
