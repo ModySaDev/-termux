@@ -6,7 +6,7 @@ clear
 echo ""
 toilet -f future "BLOG" | lolcat
 echo ""
-xdg-open http://techcoch.blogspot.com/?m=1
+xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
 
 
 echo -e "\e[101m Press Enter \e[0m"
