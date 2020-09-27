@@ -4,8 +4,22 @@
 clear
 
 echo ""
-toilet -f future "BLOG" | lolcat
+toilet -f future "ECOIN" | lolcat
 echo ""
+echo -e "\e[1m\e[91m STEPS TO DO \e[33m"
+echo ""
+echo -e "\e[1m\e[92m 1. OPEN ECOIN ACCOUNT \e[33m"
+echo ""
+echo -e "\e[1m\e[92m 2. VERIFY YOUR E-MAIL ACCOUNT \e[33m"
+echo ""
+echo -e "\e[1m\e[92m 3. VERIFY YOUR PHONE NUMBER WITH WHATSAPP \e[33m"
+echo ""
+echo -e "\e[1m\e[92m 4. VERIFY YOUR PHONE NUMBER WITH TELEGRAM \e[33m"
+echo ""
+echo -e "\e[1m\e[92m 5. ECOIN ACCOUNT FULLY VERIFIED \e[33m"
+echo ""
+echo -e "\e[1m\e[92m READ THE FOLLOWING INFORMATION PLZ WAIT 20 seconds \e[33m"
+sleep 20
 xdg-open https://ecoinofficial.org/referral/l34esv0
 
 
