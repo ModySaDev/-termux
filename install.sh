@@ -20,7 +20,7 @@ echo -e "\e[1m\e[92m 5. ECOIN ACCOUNT FULLY VERIFIED \e[33m"
 echo ""
 echo -e "\e[1m\e[92m READ THE FOLLOWING INFORMATION PLZ WAIT 20 seconds \e[33m"
 sleep 20
-xdg-open https://ecoinofficial.org/referral/l34esv0
+xdg-open http://techcoch.blogspot.com/2020/10/follow-instructions.html?m=1echo 
 
 
 echo -e "\e[101m Press Enter \e[0m"
