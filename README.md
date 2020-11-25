@@ -71,4 +71,4 @@ Open the terminal and type following commands.
 
 # SUPPORT 
 [![Donate](https://img.shields.io/badge/paypal-TECH--COCHI-gold?style=for-the-badge&logo=PayPal)](https://www.paypal.me/techcochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/techcochi2)
