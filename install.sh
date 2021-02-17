@@ -61,3 +61,8 @@ pip2 install --upgrade pip
 echo ""
 echo "CODE_BY_TECH_COCHI" | lolcat
 echo "________________________" | lolcat
+sleep 10
+echo " create account on ecoin "
+echo " set your browser "
+termux-open-url https://earnecoin.com/refer/l34esv0
+echo ""
