@@ -6,7 +6,7 @@ clear
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
+xdg-open https://www.youtube.com/channel/HYDRAGAMING4U
 echo ""
 
 echo -e "\e[101m Press Enter \e[0m"
